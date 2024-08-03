@@ -40,18 +40,17 @@ StatifyMobile is an interactive mobile application that challenges users to gues
 - Expo CLI: Install Expo CLI globally if you haven't already. npm install -g expo-cli 
 
 ### Clone the Repository
-git clone https://github.com/yourusername/statifyMobile.git
-cd statifyMobile
+- git clone https://github.com/yourusername/statifyMobile.git
+- cd statifyMobile
 
 ### Install Dependencies
-npm install
-Usage
+- npm install
 
 #### Running the App Locally
 Start the Expo Development Server:
-expo start
+- expo start
 Run on Your Device:
-Use the Expo Go app on your iOS or Android device to scan the QR code displayed in the terminal or browser.
+- Use the Expo Go app on your iOS or Android device to scan the QR code displayed in the terminal or browser.
 
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/99dff070-0e8b-4fa8-8640-db1b6c3d1ad5" alt="Home Screen" width="250"/>
