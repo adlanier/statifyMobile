@@ -40,7 +40,7 @@ StatifyMobile is an interactive mobile application that challenges users to gues
 - Expo CLI: Install Expo CLI globally if you haven't already. npm install -g expo-cli 
 
 ### Clone the Repository
-- git clone https://github.com/yourusername/statifyMobile.git
+- git clone 
 - cd statifyMobile
 
 ### Install Dependencies
