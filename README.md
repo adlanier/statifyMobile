@@ -54,11 +54,9 @@ Run on Your Device:
 Use the Expo Go app on your iOS or Android device to scan the QR code displayed in the terminal or browser.
 
 ### Screenshots
-
-<img src="path/to/your/image/IMG_9708.PNG" alt="Home Screen" width="300"/>
-<img src="path/to/your/image/IMG_9709.PNG" alt="Game Screen" width="300"/>
-<img src="path/to/your/image/IMG_9710.PNG" alt="Game Over Screen" width="300"/>
- 
+<img src="https://github.com/user-attachments/assets/99dff070-0e8b-4fa8-8640-db1b6c3d1ad5" alt="Home Screen" width="300"/>
+<img src="https://github.com/user-attachments/assets/0d310f10-d0d7-47c0-9fff-c65e77e88866" alt="Game Screen" width="300"/>
+<img src="https://github.com/user-attachments/assets/75a2587f-4956-4afe-b272-014c3fe09f1e" alt="Game Over Screen" width="300"/>
 
 ### Contributing
 Contributions are welcome! Please follow these steps:
